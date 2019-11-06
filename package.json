@@ -34,7 +34,7 @@
     "fs": "0.0.1-security",
     "gridfs-stream": "^1.1.1",
     "isomorphic-fetch": "^2.2.1",
-    "mongoose": "^4.13.7",
+    "mongoose": "^5.7.5",
     "moniker": "^0.1.2",
     "morgan": "^1.6.1",
     "mysql": "^2.15.0",
